@@ -1,2 +1,3 @@
-# book-reseller
-A java system for sell old books. Here is also user panel.  GUI, File and basic OOP concepts are used. 
+# Book-Reseller
+A Java system for selling old books. Here is also the user panel.  GUI, File, and basic OOP concepts are used. 
+
